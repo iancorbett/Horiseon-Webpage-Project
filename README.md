@@ -26,6 +26,8 @@ upon being clicked.
 CREDITS: I got the starter code for this project off of Github. The username of the peron that created the repository is
 The Coding bootcamp. The name of the repository is: urban-octo-telegram. I used a few files in particular for my project.
 These are the index.html and style.css files.
-Link: https://github.com/coding-boot-camp/urban-octo-telegram
+Source Link: https://github.com/coding-boot-camp/urban-octo-telegram
 
+Link to deployed project: [
+](https://iancorbett.github.io/Horiseon-Webpage-Project/)
 Thank you very much for reading!
